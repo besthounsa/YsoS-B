@@ -53,7 +53,7 @@ Currently in 1st year at <a href="https://www.epitech.bj" alt="Epitech Bénin">E
 
 [![Mail](https://img.shields.io/badge/Gmail-besthounsa@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:besthounsa@gmail.com)
 
-[![Discord](https://img.shields.io/badge/Discord-Best_HOUNSA_9952-blue?logo=Discord&logoColor=white&labelColor=black)](https://www.discord.com/in/Best#8044/)
+[![Discord](https://img.shields.io/badge/Discord-Best_HOUNSA_8044-blue?logo=Discord&logoColor=white&labelColor=black)](https://www.discord.com/in/Best#8044/)
 
 [![Twitter](https://img.shields.io/badge/Twitter-Besttyga-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://www.twitter.com/Besttyga/)
 
