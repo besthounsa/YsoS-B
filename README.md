@@ -25,7 +25,7 @@
   </strong>
 </h4>
 <i>
-Currently in 2nd year at <a href="https://www.epitech.bj" alt="Epitech Bénin">Epitech Cotonou</a> to increase my level in programming, I'm a IT developer with skills in Linux System Administrator. With Epitech's Pedagogy, I learn how to work with a team and how to be autonomous. I love to be constantly in challenge, in order to apply my skills and also to improve them. For now, I'm learning C language, web development using multiple tools, frameworks and libraries both in frontend and backend.
+Currently in 3rd year at <a href="https://www.epitech.bj" alt="Epitech Bénin">Epitech Cotonou</a> to increase my level in programming, I'm a IT developer with skills in Linux System Administrator. With Epitech's Pedagogy, I learn how to work with a team and how to be autonomous. I love to be constantly in challenge, in order to apply my skills and also to improve them. For now, I'm learning C, C++ languages, web development using multiple tools, frameworks and libraries both in frontend and backend.
 </i>
 
 <br/>
@@ -42,7 +42,7 @@ Currently in 2nd year at <a href="https://www.epitech.bj" alt="Epitech Bénin">E
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=YsoS-B&show_icons=true&include_all_commits=true&theme=radical" alt="Ysos Best github stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=blacky-yg&layout=compact&theme=radical" />
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YsoS-B&layout=compact&theme=radical" />
   </a>
 </p>
 
